@@ -41,7 +41,7 @@ private String name, address, phone, email;
         this.email = email;
     }
     public String getEmail(){
-        return phone;
+        return email;
     }
     @Override
 	public String toString(){
